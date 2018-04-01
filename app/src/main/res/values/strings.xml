@@ -1,0 +1,39 @@
+<resources>
+    <string name="cinimex">CINIMEX</string>
+    <string name="app_name">Домашка</string>
+    <string name="app_label">Домашка группы</string>
+
+    <string name="A2">A2</string>
+    <string name="B1">B1</string>
+    <string name="host">192.168.1.1:80</string>
+
+    <string name="date_now">Сейчас</string>
+    <string name="date_act">Актуально</string>
+    <string name="date_new">Изменено</string>
+    <string name="date_format">dd.MM.yyyy HH:mm</string>
+
+    <string name="day_1st">понедельник</string>
+    <string name="day_2nd">вторник</string>
+    <string name="day_3rd">среда</string>
+    <string name="day_4th">четверг</string>
+
+    <string name="for_the_1th">на понедельник</string>
+    <string name="for_the_2nd">на вторник</string>
+    <string name="for_the_3rd">на среду</string>
+    <string name="for_the_4th">на четверг</string>
+
+    <string name="ask_button">Что задали?</string>
+    <string name="edit_button">Изменить задание</string>
+    <string name="refresh_button">Обновить</string>
+    <string name="save_button">Сохранить!</string>
+
+    <string name="sending">Отправляем…</string>
+    <string name="loading">Загружаем…</string>
+
+    <string name="error">Ошибка</string>
+    <string name="json_get_success">Задание получено!</string>
+    <string name="json_set_success">Задание отправлено!</string>
+    <string name="json_get_error">Не удалось получить JSON!\nСервер не доступен. =(\nПопробуйте позже.</string>
+    <string name="json_set_error">Не удалось отправить JSON!\nСервер не доступен. =(\nПопробуйте позже.</string>
+    <string name="connection_error">Отсутствует соеднинение!\nПроверьте подключение.</string>
+</resources>
